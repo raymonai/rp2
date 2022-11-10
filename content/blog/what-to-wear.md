@@ -22,7 +22,7 @@ Here are just a few examples of color palettes that would look great for your ho
 
 ![](https://rekhaphotography.files.wordpress.com/2022/10/screen-shot-2022-10-07-at-9.27.38-am.png)
 
-![](https://rekhaphotography.files.wordpress.com/2022/10/screen-shot-2022-10-07-at-9.28.59-am.png)
+![color palette ](https://rekhaphotography.files.wordpress.com/2022/10/screen-shot-2022-10-07-at-9.28.59-am.png "color palette ")
 
 ![](https://rekhaphotography.files.wordpress.com/2022/10/screen-shot-2022-10-07-at-9.26.55-am.png)
 
