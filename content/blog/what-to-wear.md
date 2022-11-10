@@ -2,7 +2,7 @@
 date = 2022-11-10T08:00:00Z
 description = "beaverton family photographycoordinating outfits for family photoshillsboro family photographyPhoto TipsPortland Family photographerportland holiday photo sessionportland photographerportraits for a causetree farm family photoswhat to wear for family photos"
 draft = true
-image = "/team/member-2.png"
+image = "/kmon.jpg"
 title = "what to wear"
 
 +++
