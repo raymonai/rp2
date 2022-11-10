@@ -5,6 +5,7 @@ description: beaverton family photographycoordinating outfits for family photosh
   family photographyPhoto TipsPortland Family photographerportland holiday photo sessionportland
   photographerportraits for a causetree farm family photoswhat to wear for family
   photos
+image: "/team/member-2.png"
 
 ---
 Come October and time just seems to fly by! Before you know it, the holidays will be here and in a blink its the new year! Here at Rekha Photography, its time to countdown to our ANNUAL HOLIDAY PORTRAIT FUNDRAISER! And hence this timely post, “What to Wear – Holiday Edition”, with my top 3 helpful tips on coordinating the perfect outfit for your holiday photos. Let’s dive right into it!
