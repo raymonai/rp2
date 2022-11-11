@@ -16,7 +16,7 @@ My #1 tip on what to wear for your family photos is to coordinate, not match. Th
 
 Here are just a few examples of color palettes that would look great for your holiday photos:
 
-![](https://rekhaphotography.files.wordpress.com/2022/10/screen-shot-2022-10-07-at-9.28.10-am.png)
+![](https://rekhaphotography.files.wordpress.com/2022/10/screen-shot-2022-10-07-at-9.28.10-am.png =250x)
 
 ![](https://rekhaphotography.files.wordpress.com/2022/10/screen-shot-2022-10-07-at-9.28.40-am.png)
 
