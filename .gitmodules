@@ -1,0 +1,3 @@
+[submodule "Sites/rp2/themes/tella"]
+	path = Sites/rp2/themes/tella
+	url = https://github.com/opera7133/tella.git

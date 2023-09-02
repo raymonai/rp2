@@ -1,0 +1,11 @@
+[
+  {
+    "title": "Now booking summer sessions",
+    "image": "img/slide/header.jpg"
+  },
+  {
+    "title": "Sample text here...",
+    "image": "img/slide/slide02.jpg",
+    "color": "text-black"
+  }
+]
